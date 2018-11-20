@@ -1,0 +1,7 @@
+ERROR:root:cannot check criticality 
+Traceback (most recent call last):
+  File "C:/Users/Ritika/PycharmProjects/hospital/hospital.py", line 355, in <module>
+    h.checkcritical();
+  File "C:/Users/Ritika/PycharmProjects/hospital/hospital.py", line 305, in checkcritical
+    raise Exception("cannot check criticality ");
+Exception: cannot check criticality 
